@@ -4,7 +4,7 @@
 ## About
 + Type: Test task;
 + Game genre: Arcade;
-+ Target plarfotm: Android 6+;
++ Target platfotm: Android 6+;
 ## Tools, libraries & frameworks
 + Unity 2020.3.18f1;
 + Zenject;
