@@ -3,7 +3,7 @@
 ---
 ## About
 + Type: Test task;
-+ Game genre: Arcade;
++ Game genre: Casual;
 + Target platfotm: Android 6+;
 ## Tools, libraries & frameworks
 + Unity 2020.3.18f1;
